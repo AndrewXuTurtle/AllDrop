@@ -26,7 +26,7 @@ Got a MacBook and an Android phone? AirDrop doesn't work between them, so you en
 - 🔒 **End-to-end encrypted**, with the same PIN check as Quick Share. Everything stays on your Wi-Fi, with no account, cloud or tracking.
 - 🆓 **Free forever** under the MIT license.
 
-Works with Samsung Galaxy (One UI), Pixel, and any Android phone with Google Play services.
+Works with Samsung Galaxy (One UI), Pixel, and any Android phone with Google Play services. Runs on any Mac with macOS 14 Sonoma or later, Apple Silicon or Intel.
 
 ## Install
 
